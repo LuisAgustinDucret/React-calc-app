@@ -17,7 +17,7 @@ body {
     position: relative;
     margin: 0 auto;
     width: 320px;
-    background-color: rgb(15, 27, 32);  
+    background-color: #292f36;  
     box-shadow: 0 19px 38px rgba(19, 19, 19, .24),
   0 15px 12px rgba(19, 19, 19, .12);
 }
@@ -66,7 +66,7 @@ button:hover {
 
 .functions button:hover, 
 .math-operations button:hover {
-  color: #33151f;
+  color: #b696a0;
 }
 
 .numbers {
